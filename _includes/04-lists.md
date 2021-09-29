@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- 12/06/2000
+- Mexican
+- Student
