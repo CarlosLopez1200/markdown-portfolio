@@ -1,0 +1,3 @@
+- 12/06/2000
+- Mexican
+- Student
